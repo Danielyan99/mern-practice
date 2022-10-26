@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "secret key mern",
+  "mongoUri": "mongodb+srv://narek:123456Narek@cluster0.ekj6lnx.mongodb.net/?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
